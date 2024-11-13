@@ -1,7 +1,7 @@
 Proyecto tipo eCommerce: Raíces de Salud
 
 Bienvenido al proyecto de página web tipo eCommerce, donde he trabajado para crear una experiencia de navegación única y fluida. 
-La página incluye secciones dedicadas para conocernos, mostrar nuestros productos, leer reseñas de clientes y un formulario de contacto. 
+La página incluye secciones dedicadas para conocernos, mostrar nuestros productos, leer reseñas de clientes y un formulario de contacto y contenido multimedia. 
 Cada producto tiene su propia página detallada, dividida en secciones donde se presentan sus características, propiedades, usos, beneficios y contraindicaciones. 
 Los usuarios pueden navegar fácilmente entre estas secciones.
 
