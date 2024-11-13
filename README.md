@@ -19,4 +19,4 @@ Cómo Usarlo
 Abre el archivo index.html en tu navegador web favorito.
 
 link
-https://yesikz.github.io/TalentoTech/
+https://yesikz.github.io/TalentoTJS/
