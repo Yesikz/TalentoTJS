@@ -1,2 +1,1 @@
-
-https://yesikz.github.io/TalentoTech/
+https://yesikz.github.io/TalentoTJS/
